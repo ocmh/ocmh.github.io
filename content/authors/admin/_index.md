@@ -25,7 +25,7 @@ organizations:
     url: https://www.colorado.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include nonequilibrium behavior and ergodicity breaking in many‑body system, and experiments using NISQ devices.
+bio: Theoretical physicist working at the interface between condensed matter and quantum information science.
 
 # Interests to show in About widget
 interests:
