@@ -229,22 +229,22 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text:
-      # Contact (add or remove contact options as necessary)
-      email:
-      phone:
-      appointment_url:
-      address:
-      directions:
-      office_hours:
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-      contact_links:
+#  - block: contact
+#    id: contact
+#    content:
+#      title: Contact
+#      subtitle:
+#      text:
+#      # Contact (add or remove contact options as necessary)
+#      email:
+#      phone:
+#      appointment_url:
+#      address:
+#      directions:
+#      office_hours:
+#      # Choose a map provider in `params.yaml` to show a map from these coordinates
+#      coordinates:
+#      contact_links:
 #        - icon: twitter
 #          icon_pack: fab
 #          name: DM Me
