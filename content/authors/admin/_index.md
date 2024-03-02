@@ -29,9 +29,9 @@ bio: My research interests include nonequilibrium behavior and ergodicity breaki
 
 # Interests to show in About widget
 interests:
-  - Ergodicity breaking in many‑body system
-  - Experiments using NISQ devices and other quantum simulators
-  - Probing many‑body quantum systems using nonlinear response
+  - Ergodicity breaking in quantum dynamics
+  - Experiments using NISQ devices
+  - Nonlinear response
 
 # Education to show in About widget
 education:
@@ -48,7 +48,7 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+# skills:
 #  - name: Technical
 #    items:
 #      - name: Python
@@ -74,11 +74,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=ioEqVGcAAAAJ&hl=en
   - icon: arxiv
-    icon_pack: fab
+    icon_pack: brands
     link: https://arxiv.org/a/hart_o_1.html
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -91,5 +91,5 @@ social:
 highlight_name: true
 ---
 
-Oliver Hart is a postdoc at the University of Colorado, Boulder at the Center for Theory of Quantum Matter.
+Oliver Hart is a postdoc at UC Boulder at the Center for Theory of Quantum Matter.
 {style="text-align: justify;"}
