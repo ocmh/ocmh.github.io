@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral research associate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
