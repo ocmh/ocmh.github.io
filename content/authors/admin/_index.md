@@ -91,5 +91,5 @@ social:
 highlight_name: true
 ---
 
-Oliver Hart is a postdoc at UC Boulder at the Center for Theory of Quantum Matter.
+Oliver Hart is a postdoc at CU Boulder at the Center for Theory of Quantum Matter.
 {style="text-align: justify;"}
