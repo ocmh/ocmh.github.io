@@ -227,7 +227,7 @@ sections:
        title: Gallery
        subtitle: ''
        text: |-
-         {{< gallery album="figs" >}}
+         {{< gallery album="img" >}}
      design:
        columns: '1'
 
