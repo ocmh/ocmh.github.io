@@ -226,7 +226,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="figs" >}}
+        {{< gallery album="demo" >}}
     design:
       columns: '1'
 #  - block: contact
