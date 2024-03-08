@@ -80,6 +80,9 @@ social:
   - icon: arxiv
     icon_pack: brands
     link: https://arxiv.org/a/hart_o_1.html
+  - icon: orcid
+    icon_pack: brands
+    link: https://orcid.org/0000-0002-5391-7483
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
