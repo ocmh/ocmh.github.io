@@ -45,5 +45,4 @@ abstract: We present a set of generalized quantum loop models which provably exh
 
 # Summary. An optional shortened abstract.
 summary: We present a generalized family of quantum loop models that provably exhibit topologically stable ergodicity breaking.
-
 ---
