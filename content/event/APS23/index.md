@@ -12,7 +12,7 @@ address:
   postcode: '89109'
   country: United States
 
-summary: Showing that quantum loop models can evade thermalization when starting from special initial states.
+summary: Showing that quantum loop models can evade thermalization robustly when starting from special initial states.
 abstract: 'We present a model that exhibits ergodicity breaking via Hilbert space fragmentation with an unprecedented level of robustness. The construction relies on a single prethermal conservation law and gives rise to an exponential number of frozen states when the conservation law is exact. These states persist to all finite orders in perturbation theory in the presence of arbitrary few-body perturbations; even those that are geometrically nonlocal or exhibit power-law tails. We additionally identify one-form U(1) charges that label symmetry sectors without fragmentation, and argue that the asymptotic relaxation therein is described by magnetohydrodynamics of the emergent one-form symmetry.'
 
 # Talk start and end times.
