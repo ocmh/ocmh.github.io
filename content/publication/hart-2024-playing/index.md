@@ -37,7 +37,7 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
-  focal_point: ""
+  focal_point: Left
   preview_only: false
 
 abstract: Many-body quantum games provide a natural perspective on phases of matter in quantum hardware, crisply relating the quantum correlations inherent in phases of matter to the securing of quantum advantage at a device-oriented task. In this paper we introduce a family of multiplayer quantum games for which topologically ordered phases of matter are a resource yielding quantum advantage. Unlike previous examples, quantum advantage persists away from the exactly solvable point and is robust to arbitrary local perturbations, irrespective of system size. We demonstrate this robustness experimentally on Quantinuum's H1-1 quantum computer by playing the game with a continuous family of randomly deformed toric code states that can be created with constant-depth circuits leveraging mid-circuit measurements and unitary feedback. We are thus able to tune through a topological phase transition - witnessed by the loss of robust quantum advantage - on currently available quantum hardware. This behavior is contrasted with an analogous family of deformed GHZ states, for which arbitrarily weak local perturbations destroy quantum advantage in the thermodynamic limit. Finally, we discuss a topological interpretation of the game, which leads to a natural generalization involving an arbitrary number of players.
