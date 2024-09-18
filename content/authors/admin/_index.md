@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Associate
+role: Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,9 +29,9 @@ bio: Theoretical physicist working at the interface between condensed matter and
 
 # Interests to show in About widget
 interests:
-  - Ergodicity breaking in quantum dynamics
   - Experiments using NISQ devices
-  - Nonlinear response
+  - Quantum state preparation
+  - Ergodicity breaking in quantum dynamics
 
 # Education to show in About widget
 education:
